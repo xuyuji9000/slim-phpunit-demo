@@ -1,5 +1,4 @@
 vendor/*
-database/database.sqlite
 logs/app.log
 uploads/
 cache/
